@@ -59,7 +59,7 @@ A mixed bag of Git techniques, tricks, and tips
 
 - [1.4.1. Grabbing Just 1 Commit](1.4.1._grabbing_just_1_commit.md)
 - [1.4.2. Juggling Commits](1.4.2._juggling_commits.md)
-- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_#2.md)
+- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_.md)
 - [1.4.4. Git Tags](1.4.4._git_tags.md)
 - [1.4.5. Git Describe](1.4.5._git_describe.md)
 
@@ -94,7 +94,7 @@ And you thought being a benevolent dictator would be fun...
 - [2.2.2. Merging with remotes](2.2.2._merging_with_remotes.md)
 - [2.2.3. Remote Tracking](2.2.3._remote_tracking.md)
 - [2.2.4. Git push arguments](2.2.4._git_push_arguments.md)
-- [2.2.5. Git push arguments -- Expanded!](2.2.5._git_push_arguments_--_expanded!)
+- [2.2.5. Git push arguments -- Expanded!](2.2.5._git_push_arguments_--_expanded!.md)
 - [2.2.6. Fetch arguments](2.2.6._fetch_arguments.md)
 - [2.2.7. Source of nothing](2.2.7._source_of_nothing.md)
 - [2.2.8. Pull arguments](2.2.8._pull_arguments.md)
