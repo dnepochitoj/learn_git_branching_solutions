@@ -32,44 +32,44 @@ If you prefer to download all solutions at once to work on them locally, follow 
 
 A nicely paced introduction to the majority of git commands
 
-- [1.1.1. Introduction to Git Commits](1.1.1_introduction_to_git_commits.md)
-- [1.1.2. Branching in Git](1.1.2._branching_in_git)
-- [1.1.3. Merging in Git](1.1.3._merging_in_git)
-- [1.1.4. Rebase Introduction](1.1.4._rebase_introduction)
+- [1.1.1. Introduction to Git Commits](1.1.1_introduction_to_git_commits)
+- [1.1.2. Branching in Git](1.1.2._branching_in_git.md)
+- [1.1.3. Merging in Git](1.1.3._merging_in_git.md)
+- [1.1.4. Rebase Introduction](1.1.4._rebase_introduction.md)
 
 ### 1.2. Ramping Up
 
 The next serving of 100% git awesomes-ness. Hope you're hungry
 
-- [1.2.1. Detach yo' HEAD](1.2.1._detach_yo'_head)
-- [1.2.2. Relative Refs (^)](1.2.2._relative_refs_(^))
-- [1.2.3. Relative Refs #2 (~)](1.2.3._relative_refs_)
-- [1.2.4. Reversing Changes in Git](1.2.4._reversing_changes_in_git)
+- [1.2.1. Detach yo' HEAD](1.2.1._detach_yo'_head.md)
+- [1.2.2. Relative Refs (^)](1.2.2._relative_refs_(^).md)
+- [1.2.3. Relative Refs #2 (~)](1.2.3._relative_refs_.md)
+- [1.2.4. Reversing Changes in Git](1.2.4._reversing_changes_in_git.md)
 
 ### 1.3. Moving Work Around
 
 "Git" comfortable with modifying the source tree :P
 
-- [1.3.1. Cherry-pick Intro](1.3.1._cherry-pick_intro)
-- [1.3.2. Interactive Rebase Intro](1.3.2._interactive_rebase_intro)
+- [1.3.1. Cherry-pick Intro](1.3.1._cherry-pick_intro.md)
+- [1.3.2. Interactive Rebase Intro](1.3.2._interactive_rebase_intro.md)
 
 ### 1.4. A Mixed Bag
 
 A mixed bag of Git techniques, tricks, and tips
 
-- [1.4.1. Grabbing Just 1 Commit](1.4.1._grabbing_just_1_commit)
-- [1.4.2. Juggling Commits](1.4.2._juggling_commits)
-- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_#2)
-- [1.4.4. Git Tags](1.4.4._git_tags)
-- [1.4.5. Git Describe](1.4.5._git_describe)
+- [1.4.1. Grabbing Just 1 Commit](1.4.1._grabbing_just_1_commit.md)
+- [1.4.2. Juggling Commits](1.4.2._juggling_commits.md)
+- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_#2.md)
+- [1.4.4. Git Tags](1.4.4._git_tags.md)
+- [1.4.5. Git Describe](1.4.5._git_describe.md)
 
 ### 1.5. Advanced Topics
 
 For the truly brave!
 
-- [1.5.1. Rebasing over 9000 times](1.5.1._rebasing_over_9000_times)
-- [1.5.2. Multiple parents](1.5.2._multiple_parents)
-- [1.5.3. Branch Spaghetti](1.5.3._branch_spaghetti)
+- [1.5.1. Rebasing over 9000 times](1.5.1._rebasing_over_9000_times.md)
+- [1.5.2. Multiple parents](1.5.2._multiple_parents.md)
+- [1.5.3. Branch Spaghetti](1.5.3._branch_spaghetti.md)
 
 ## 2. Remote
 
@@ -77,27 +77,27 @@ For the truly brave!
 
 Time to share your 1's and 0's kids; coding just got social
 
-- [2.1.1. Clone Intro](2.1.1._clone_intro)
-- [2.1.2. Remote Branches](2.1.2._remote_branches)
-- [2.1.3. Git Fetchin'](2.1.3._git_fetchin')
-- [2.1.4. Git Pullin'](2.1.4._git_pullin')
-- [2.1.5. Faking Teamwork](2.1.5._faking_teamwork)
-- [2.1.6. Git Pushin'](2.1.6._git_pushin')
-- [2.1.7. Diverged History](2.1.7._diverged_history)
-- [2.1.8. Locked Main](2.1.8._locked_main)
+- [2.1.1. Clone Intro](2.1.1._clone_intro.md)
+- [2.1.2. Remote Branches](2.1.2._remote_branches.md)
+- [2.1.3. Git Fetchin'](2.1.3._git_fetchin'.md)
+- [2.1.4. Git Pullin'](2.1.4._git_pullin'.md)
+- [2.1.5. Faking Teamwork](2.1.5._faking_teamwork.md)
+- [2.1.6. Git Pushin'](2.1.6._git_pushin'.md)
+- [2.1.7. Diverged History](2.1.7._diverged_history.md)
+- [2.1.8. Locked Main](2.1.8._locked_main.md)
 
 ### 2.2. To Origin And Beyond -- Advanced Git Remotes!
 
 And you thought being a benevolent dictator would be fun...
 
-- [2.2.1. Push Main!](2.2.1._push_main!)
-- [2.2.2. Merging with remotes](2.2.2._merging_with_remotes)
-- [2.2.3. Remote Tracking](2.2.3._remote_tracking)
-- [2.2.4. Git push arguments](2.2.4._git_push_arguments)
+- [2.2.1. Push Main!](2.2.1._push_main!.md)
+- [2.2.2. Merging with remotes](2.2.2._merging_with_remotes.md)
+- [2.2.3. Remote Tracking](2.2.3._remote_tracking.md)
+- [2.2.4. Git push arguments](2.2.4._git_push_arguments.md)
 - [2.2.5. Git push arguments -- Expanded!](2.2.5._git_push_arguments_--_expanded!)
-- [2.2.6. Fetch arguments](2.2.6._fetch_arguments)
-- [2.2.7. Source of nothing](2.2.7._source_of_nothing)
-- [2.2.8. Pull arguments](2.2.8._pull_arguments)
+- [2.2.6. Fetch arguments](2.2.6._fetch_arguments.md)
+- [2.2.7. Source of nothing](2.2.7._source_of_nothing.md)
+- [2.2.8. Pull arguments](2.2.8._pull_arguments.md)
 
 ## Contributing
 
