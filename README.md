@@ -59,7 +59,7 @@ A mixed bag of Git techniques, tricks, and tips
 
 - [1.4.1. Grabbing Just 1 Commit](1.4.1._grabbing_just_1_commit.md)
 - [1.4.2. Juggling Commits](1.4.2._juggling_commits.md)
-- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_#2.md)
+- [1.4.3. Juggling Commits #2](1.4.3._juggling_commits_.md)
 - [1.4.4. Git Tags](1.4.4._git_tags.md)
 - [1.4.5. Git Describe](1.4.5._git_describe.md)
 
