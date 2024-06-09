@@ -94,7 +94,7 @@ And you thought being a benevolent dictator would be fun...
 - [2.2.2. Merging with remotes](2.2.2._merging_with_remotes.md)
 - [2.2.3. Remote Tracking](2.2.3._remote_tracking.md)
 - [2.2.4. Git push arguments](2.2.4._git_push_arguments.md)
-- [2.2.5. Git push arguments -- Expanded!](2.2.5._git_push_arguments_--_expanded!)
+- [2.2.5. Git push arguments -- Expanded!](2.2.5._git_push_arguments_--_expanded!.md)
 - [2.2.6. Fetch arguments](2.2.6._fetch_arguments.md)
 - [2.2.7. Source of nothing](2.2.7._source_of_nothing.md)
 - [2.2.8. Pull arguments](2.2.8._pull_arguments.md)
