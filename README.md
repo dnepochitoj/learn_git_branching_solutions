@@ -32,7 +32,7 @@ If you prefer to download all solutions at once to work on them locally, follow 
 
 A nicely paced introduction to the majority of git commands
 
-- [1.1.1. Introduction to Git Commits](1.1.1_introduction_to_git_commits)
+- [1.1.1. Introduction to Git Commits](1.1.1_introduction_to_git_commits.md)
 - [1.1.2. Branching in Git](1.1.2._branching_in_git.md)
 - [1.1.3. Merging in Git](1.1.3._merging_in_git.md)
 - [1.1.4. Rebase Introduction](1.1.4._rebase_introduction.md)
